@@ -15,4 +15,4 @@ This Python project is part of the CS50 AI course, aiming to find the degrees of
 
 **Note:** Due to the size of the project, it is provided as a zip file. You can download the zip file from the repository
 
-Feel free to contribute and enhance the project! If you have any suggestions or find issues, please create a new [issue](https://github.com/yourusername/CS50-Degrees-Project/issues).
+Feel free to contribute and enhance the project! If you have any suggestions or find issues, please create a new [issue](https://github.com/Ahmed-Sharafeldin-Nasreldin/CS50-Degrees-Project/issues).
